@@ -50,8 +50,7 @@ Ada test format Rupiah dan test alur lengkap: masuk → buka produk → klaim vo
 ## Screenshot
 | Welcome | Store | Detail Produk | Voucher | Profile |
 |---------|-------|---------------|---------|---------|
-| <img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/f6fe3151-d9fb-44e6-8a2e-7bb333e4f4f1" />
- | <img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/270854fa-2a5a-4d70-9eda-c707f79bdb5f" />
+| <img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/f6fe3151-d9fb-44e6-8a2e-7bb333e4f4f1" /> | <img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/270854fa-2a5a-4d70-9eda-c707f79bdb5f" />
  | <img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/1e4040ea-fed2-4f07-a61d-25e1a18b5f82" />
  | <img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/1cab42e3-9af3-4f60-a830-e5b0c932a073" />
  | <img width="1282" height="720" alt="image" src="https://github.com/user-attachments/assets/eab2bc62-980f-4d56-8d03-e1193643a44c" />
